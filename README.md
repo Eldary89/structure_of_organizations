@@ -1,7 +1,7 @@
 # structure_of_organizations
 Это тестовое задание
 
-Ссылка на док файл https://docs.google.com/document/d/1wP2zIOsPbdVWbCCkxT7Ry-NjcCRIqDmL7AAbUDhlNM4/edit?usp=sharing
+Ссылка на док файл со скриншотами https://docs.google.com/document/d/1wP2zIOsPbdVWbCCkxT7Ry-NjcCRIqDmL7AAbUDhlNM4/edit?usp=sharing
 
 Приложение состоит из 4 под-приложений:
 - common
